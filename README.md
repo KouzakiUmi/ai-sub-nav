@@ -21,30 +21,21 @@ node scripts/update-promos.mjs    # 手动跑一次官网优惠抓取，生成 d
 - 公开视图：`http://127.0.0.1:8080/`
 - 站长模式：`http://127.0.0.1:8080/?edit=1`（写评测、填邀请码、导出配置）
 
-## 上线到 GitHub Pages
+## 上线与部署
 
-1. 在 GitHub 新建 **public** 仓库（例如 `ai-sub-nav`），不要初始化 README。
-2. 在本目录推送：
-
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: AI 订阅手账静态站 + 官网优惠自动核对"
-   git branch -M main
-   git remote add origin https://github.com/<你的用户名>/<仓库名>.git
-   git push -u origin main
-   ```
-
-3. 仓库 **Settings → Pages → Build and deployment → Source** 选 **Deploy from a branch**，
-   分支选 `main`、目录选 `/ (root)`，Save。
-4. 约一分钟后访问 `https://<你的用户名>.github.io/<仓库名>/`。
-5. 仓库 **Actions** 页可见 `update-promos` 工作流；可点 **Run workflow** 手动触发首跑。
-   此后每日 06:00（北京时间）自动抓取官网优惠并提交 `data/promos.js`，Pages 随提交自动重新部署。
+- 仓库：<https://github.com/KouzakiUmi/ai-sub-nav>（public）
+- 站点：<https://kouzakiumi.github.io/ai-sub-nav/>（GitHub Pages，分支部署 `main` / `(root)`）
+- 自动更新：Actions 工作流 `update-promos` 每日 06:00（北京时间）+ 手动 **Run workflow**；
+  抓取提交 `data/promos.js` 后 Pages 随推送自动重新部署。
+- 更新站点：改文件 → `git commit` → `git push`（Pages 随推送重建，约一分钟生效）。
 
 两个已知边界：
 
 - GitHub 会在仓库 **60 天无活动**后暂停定时工作流；手动 Run workflow 一次即恢复。
 - 工作流跑在 GitHub 海外节点，个别国内官网直连可能失败；失败会**保留上次快照**并在页面「最新优惠」区标记，不会写假数据。
+
+复现 / 迁移到其它仓库：新建 public 仓库 → 推送本目录 → **Settings → Pages → Source** 选
+**Deploy from a branch**、分支 `main`、目录 `/ (root)` → Save；Actions 页手动 Run workflow 首跑。
 
 ## 填邀请码 / 写个人评测
 

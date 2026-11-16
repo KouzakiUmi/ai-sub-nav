@@ -49,7 +49,10 @@
 
 - 无后端、无追踪、无外部 CDN / 字体下载（系统字体栈兜底）。
 - 不代笔站长个人体验；评测空态为设计态而非占位 TODO。
-- git 远端 / 部署未执行（用户选择自推）；工作流文件已就绪待推送后生效。
+- git 远端与部署：用户本次明确授权「建一个 repo 并且部署」；目标 KouzakiUmi/ai-sub-nav（public），
+  Pages 分支部署 main / (root)，站点 https://kouzakiumi.github.io/ai-sub-nav/ ；
+  提交身份 KouzakiUmi <kent0629@gmail.com>（账号已验证邮箱），SSH 签名密钥与账号注册 signing key 匹配。
+  执行结果以会话报告与 README 为准。
 
 ## 维护约定
 
