@@ -1,0 +1,14 @@
+{
+  "name": "ai-subscription-field-notes",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "我的 AI 订阅手账：注册入口 / 免费额度 / 邀请福利 / 个人评测 + 官网优惠自动核对（GitHub Pages 静态站）",
+  "scripts": {
+    "update": "node scripts/update-promos.mjs",
+    "preview": "node scripts/preview.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

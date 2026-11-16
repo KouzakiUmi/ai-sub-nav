@@ -1,0 +1,39 @@
+name: update-promos
+
+on:
+  schedule:
+    # 每日 06:00 北京时间（UTC+8）= 22:00 UTC
+    - cron: "0 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-promos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Fetch official promo pages
+        run: node scripts/update-promos.mjs
+
+      - name: Commit snapshot if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/promos.js
+          if git diff --cached --quiet; then
+            echo "promos unchanged, nothing to commit"
+          else
+            git commit -m "chore(promos): 自动更新官网优惠快照"
+            git push
+          fi
