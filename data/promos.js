@@ -1,8 +1,8 @@
 // 自动生成，请勿手改：node scripts/update-promos.mjs / GitHub Actions 每日更新
-// 生成时间 2026-11-16T04:05:14.499Z · run local
+// 生成时间 2026-11-16T07:11:07.638Z · run actions-43821949018
 globalThis.PROMOS = {
-  "generatedAt": "2026-11-16T04:05:14.499Z",
-  "run": "local",
+  "generatedAt": "2026-11-16T07:11:07.638Z",
+  "run": "actions-43821949018",
   "items": [
     {
       "siteId": "glm",
@@ -13,7 +13,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "5e48a507d22998aa",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:06.588Z"
+      "fetchedAt": "2026-11-16T07:10:52.119Z"
     },
     {
       "siteId": "glm",
@@ -29,7 +29,7 @@ globalThis.PROMOS = {
       ],
       "hash": "9016c75fec0849a4",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:06.594Z"
+      "fetchedAt": "2026-11-16T07:10:52.176Z"
     },
     {
       "siteId": "kimi",
@@ -40,7 +40,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "5765cf4415e09c26",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:06.595Z"
+      "fetchedAt": "2026-11-16T07:10:52.177Z"
     },
     {
       "siteId": "kimi",
@@ -53,7 +53,7 @@ globalThis.PROMOS = {
       ],
       "hash": "8c8dd55fba18393e",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:06.596Z"
+      "fetchedAt": "2026-11-16T07:10:52.178Z"
     },
     {
       "siteId": "minimax",
@@ -64,7 +64,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "28da28db16ef2381",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.275Z"
+      "fetchedAt": "2026-11-16T07:10:55.056Z"
     },
     {
       "siteId": "minimax",
@@ -77,7 +77,7 @@ globalThis.PROMOS = {
       ],
       "hash": "3b40606cb40ee11a",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.276Z"
+      "fetchedAt": "2026-11-16T07:10:55.057Z"
     },
     {
       "siteId": "mimo",
@@ -88,18 +88,19 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.276Z"
+      "fetchedAt": "2026-11-16T07:10:55.058Z"
     },
     {
       "siteId": "trae",
       "url": "https://www.trae.cn/pricing",
-      "status": "ok",
+      "status": "error",
       "kind": "text",
-      "title": "定价 | TRAE - The Real AI Engineer",
+      "title": "",
       "snippets": [],
-      "hash": "af1955491580a913",
+      "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.276Z"
+      "fetchedAt": "2026-11-16T07:10:55.059Z",
+      "error": "HTTP 403"
     },
     {
       "siteId": "qoder",
@@ -115,7 +116,7 @@ globalThis.PROMOS = {
       ],
       "hash": "7db66c2efa76cfc2",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.972Z"
+      "fetchedAt": "2026-11-16T07:10:58.105Z"
     },
     {
       "siteId": "qoder",
@@ -126,7 +127,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "be502db8ba5c22da",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.972Z"
+      "fetchedAt": "2026-11-16T07:10:58.107Z"
     },
     {
       "siteId": "raccoon",
@@ -142,7 +143,7 @@ globalThis.PROMOS = {
       ],
       "hash": "2d09bce45aa7b459",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.973Z"
+      "fetchedAt": "2026-11-16T07:10:58.108Z"
     },
     {
       "siteId": "raccoon",
@@ -157,7 +158,7 @@ globalThis.PROMOS = {
       ],
       "hash": "87a005d0ca1804f0",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:07.973Z"
+      "fetchedAt": "2026-11-16T07:10:58.109Z"
     },
     {
       "siteId": "loomy",
@@ -168,8 +169,8 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:08.542Z",
-      "error": "ECONNRESET"
+      "fetchedAt": "2026-11-16T07:11:01.022Z",
+      "error": "ENOTFOUND"
     },
     {
       "siteId": "opencode",
@@ -182,7 +183,7 @@ globalThis.PROMOS = {
       ],
       "hash": "daff6242c9dbda52",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:08.542Z"
+      "fetchedAt": "2026-11-16T07:11:01.023Z"
     },
     {
       "siteId": "opencode",
@@ -198,7 +199,7 @@ globalThis.PROMOS = {
       ],
       "hash": "c3b09cd233c93e84",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:08.543Z"
+      "fetchedAt": "2026-11-16T07:11:01.025Z"
     },
     {
       "siteId": "commandcode",
@@ -214,7 +215,7 @@ globalThis.PROMOS = {
       ],
       "hash": "dc4b01a5875a80d5",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:08.543Z"
+      "fetchedAt": "2026-11-16T07:11:01.025Z"
     },
     {
       "siteId": "devin",
@@ -228,7 +229,7 @@ globalThis.PROMOS = {
       ],
       "hash": "181372970262068b",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:10.644Z"
+      "fetchedAt": "2026-11-16T07:11:03.427Z"
     },
     {
       "siteId": "devin",
@@ -239,7 +240,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "68e80a867489103c",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:10.644Z"
+      "fetchedAt": "2026-11-16T07:11:03.428Z"
     },
     {
       "siteId": "copilot",
@@ -255,7 +256,7 @@ globalThis.PROMOS = {
       ],
       "hash": "2a7d2ba17dce4867",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:10.644Z"
+      "fetchedAt": "2026-11-16T07:11:03.429Z"
     },
     {
       "siteId": "copilot",
@@ -271,7 +272,7 @@ globalThis.PROMOS = {
       ],
       "hash": "ddaa87b95d5afafb",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:10.644Z"
+      "fetchedAt": "2026-11-16T07:11:03.430Z"
     },
     {
       "siteId": "sensenova",
@@ -285,7 +286,7 @@ globalThis.PROMOS = {
       ],
       "hash": "8501b7a053982b6b",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:12.413Z"
+      "fetchedAt": "2026-11-16T07:11:04.308Z"
     },
     {
       "siteId": "gemini",
@@ -301,7 +302,7 @@ globalThis.PROMOS = {
       ],
       "hash": "60e3eb1d2e22475b",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:12.413Z"
+      "fetchedAt": "2026-11-16T07:11:04.309Z"
     },
     {
       "siteId": "workbuddy",
@@ -312,7 +313,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "8ca59adff7a7150c",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:12.414Z"
+      "fetchedAt": "2026-11-16T07:11:04.310Z"
     },
     {
       "siteId": "opendesign",
@@ -323,7 +324,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-16T04:05:12.414Z"
+      "fetchedAt": "2026-11-16T07:11:04.311Z"
     }
   ]
 };
