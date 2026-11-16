@@ -11,6 +11,10 @@
 - 平台清单 16 个（用户截图 + 文字指定）：GLM Coding Plan、Kimi Code、MiniMax Code、MiMo Code、
   TRAE、Qoder、商汤小浣熊、讯飞 Loomy、OpenCode、Command Code、Devin、GitHub Copilot、
   SenseNova Token Plan、Gemini API、WorkBuddy、Open Design。分组 coding / api / work。
+- 分组口径（用户 2026-11-16 晚澄清）：编程订阅 = 可提供 API 的模型额度订阅
+  （GLM / Kimi / MiniMax / MiMo / OpenCode / CommandCode / Devin / Copilot，8 个）；
+  办公与设计 = 自带客户端的办公助手 / AI IDE / 设计订阅（TRAE / Qoder / 小浣熊 / Loomy / WorkBuddy / OpenDesign，6 个）；
+  模型 API = SenseNova / Gemini（2 个）。
 - 邀请码：用户选择「暂不放、之后自己填」→ 字段留空自动隐藏，提供站长编辑模式与导出闭环。
 - 个人评测：用户自己写 → 完整评测 UI（评分 / 结论 / 优缺点 / 正文 / 场景）+ 空态印章 + 编辑模式。
 - 托管：用户选择「本地交付 + 上线步骤」→ 不执行 git 远端操作，README 给完整推送与 Pages 步骤。
