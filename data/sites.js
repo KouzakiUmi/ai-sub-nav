@@ -1,4 +1,4 @@
-// 由站长编辑模式导出于 2026-11-16T09:38:07.216Z
+// 由站长编辑模式导出于 2026-11-16T10:12:40.413Z
 // 覆盖仓库 data/sites.js 后提交推送即发布。
 globalThis.SITES = [
   {
@@ -567,13 +567,17 @@ globalThis.SITES = [
       "https://www.sensenova.cn/token-plan"
     ],
     "review": {
-      "rating": 0,
-      "verdict": "",
-      "pros": [],
-      "cons": [],
+      "rating": 2,
+      "verdict": "免费的还要什么自行车",
+      "pros": [
+        "免费！"
+      ],
+      "cons": [
+        "严重限速！"
+      ],
       "scene": "",
-      "body": "",
-      "updatedAt": ""
+      "body": "也就GLM 5.3能一口气用光5H额度，其他模型都是限速严重。\n但是免费订阅，有DS有K3.1还要怎样……",
+      "updatedAt": "2026-11-16"
     }
   },
   {
@@ -606,13 +610,17 @@ globalThis.SITES = [
       "https://aistudio.google.com/docs/pricing"
     ],
     "review": {
-      "rating": 0,
-      "verdict": "",
-      "pros": [],
-      "cons": [],
+      "rating": 4,
+      "verdict": "免费！",
+      "pros": [
+        "免费模型"
+      ],
+      "cons": [
+        "收集数据"
+      ],
       "scene": "",
-      "body": "",
-      "updatedAt": ""
+      "body": "注册配置API Key即可调用免费的Gemini 4 Hydrogen，但是有严格的TPM限制。\n轻量化使用是没问题的，作为顾问用。因为它会收集数据用来训练，所以需要注意。\n付费的话AI Pro订阅现在是最强的，独立Claude模型池，独立的Argon额度池，独立的Hydrogen额度池，应有尽有。",
+      "updatedAt": "2026-11-16"
     }
   },
   {
@@ -632,8 +640,8 @@ globalThis.SITES = [
     "priceKind": "official",
     "invite": {
       "code": "",
-      "url": "",
-      "bonus": "站内邀请活动，规则见控制台邀请入口",
+      "url": "https://www.workbuddy.cn/events/invite?inviteCode=esd9d5vpq9q1c881",
+      "bonus": "使用邀请码注册可获得2000永久积分",
       "programUrl": "https://www.workbuddy.cn/"
     },
     "tags": [
@@ -646,13 +654,18 @@ globalThis.SITES = [
       "https://www.workbuddy.cn/"
     ],
     "review": {
-      "rating": 0,
-      "verdict": "",
-      "pros": [],
-      "cons": [],
+      "rating": 5,
+      "verdict": "还能说什么，强无敌",
+      "pros": [
+        "免费Hy4"
+      ],
+      "cons": [
+        "排队",
+        "限速"
+      ],
       "scene": "",
-      "body": "",
-      "updatedAt": ""
+      "body": "Hy4限时免费，付费版本打骨折。订阅额度充足。\n就是客户端很腾讯，做任务领积分……还有抽卡环节。",
+      "updatedAt": "2026-11-16"
     }
   },
   {
@@ -672,8 +685,8 @@ globalThis.SITES = [
     "priceKind": "measured",
     "invite": {
       "code": "",
-      "url": "",
-      "bonus": "",
+      "url": "https://open-design.ai/cloud/r/XcLCM1Ir_yrh",
+      "bonus": "「我在 OpenDesign 免费拿重置卡，帮我砍一刀」用我的链接注册并订阅，你我各得 1 张，DeepSeek 4.1 flash 使劲蹬！",
       "programUrl": ""
     },
     "tags": [
@@ -684,13 +697,17 @@ globalThis.SITES = [
       "https://opendesign.ai/"
     ],
     "review": {
-      "rating": 0,
-      "verdict": "",
-      "pros": [],
-      "cons": [],
+      "rating": 4,
+      "verdict": "量大管饱",
+      "pros": [
+        "$20订阅送$20高端模型额度"
+      ],
+      "cons": [
+        "偶尔不太稳定"
+      ],
       "scene": "",
-      "body": "",
-      "updatedAt": ""
+      "body": "相当于Opencode+Commandcode+Kilo的结合体\n$20订阅给$290的Deepseek V4.1 Flash Eco额度+$20的Opus 5.5等高端模型额度\n订阅额度池是每周=四分之一总额度池，用不完就亏。独立额度池是pay as you go机制。",
+      "updatedAt": "2026-11-16"
     }
   }
 ];

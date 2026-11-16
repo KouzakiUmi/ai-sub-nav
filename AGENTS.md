@@ -64,8 +64,13 @@
 
 ## 待决项
 
-- 邀请码 / 邀请链接：待站长填入（编辑模式或 sites.js）。
-- 个人评测：待站长撰写。
+- 邀请码 / 评测发布状态（2026-11-16）：16/16 评测已撰写，经两轮导出发布链入库（第一轮 12 篇，第二轮补齐 4 篇）；
+  邀请码 kimi 32ZXQF、loomy M6GJWM（loomy 限一人使用，被用后需换码重发布）；
+  邀请链接 GLM / TRAE / Qoder / 小浣熊 / WorkBuddy / OpenDesign 已发布。
+- kimi 非官方域名 kimi-bot.com 邀请链接经用户确认移除；站长浏览器旧草稿会在下次导出时带回该链接与
+  qoder 未加注文案（localStorage 草稿覆盖已发布字段）——发布后应在 ?edit=1 点「恢复已发布版本」清草稿，
+  每次导出后需核对这两处。
+- qoder 邀请福利为 8月3日-9月3日 已结束活动，页面文案已加注「该活动已结束，当前福利以官网为准」。
 - Loomy 官网直连不稳定（部分网络 ECONNRESET / 超时）：入口保留 loomy.xfyun.cn 并加提示；
   若站长确认正式域名，改 sites.js 的 url / promoSources。
 - MiMo / Open Design 免费额度：官网动态页未公示，待公开后人工补核并更新 checkedAt。
