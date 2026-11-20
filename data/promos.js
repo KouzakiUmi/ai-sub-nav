@@ -1,8 +1,8 @@
 // 自动生成，请勿手改：node scripts/update-promos.mjs / GitHub Actions 每日更新
-// 生成时间 2026-11-19T03:08:25.481Z · run actions-44449263010
+// 生成时间 2026-11-20T02:57:38.294Z · run actions-44664363712
 globalThis.PROMOS = {
-  "generatedAt": "2026-11-19T03:08:25.481Z",
-  "run": "actions-44449263010",
+  "generatedAt": "2026-11-20T02:57:38.294Z",
+  "run": "actions-44664363712",
   "items": [
     {
       "siteId": "glm",
@@ -13,7 +13,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "5e48a507d22998aa",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:10.452Z"
+      "fetchedAt": "2026-11-20T02:57:21.574Z"
     },
     {
       "siteId": "glm",
@@ -27,20 +27,20 @@ globalThis.PROMOS = {
         "当套餐额度耗尽后，需要等待下一个 5 小时周期恢复额度，系统不会继续消耗您的其他资源包/账户余额。",
         "周积分 ：自套餐下单时起，以 7 天为一个周期刷新。"
       ],
-      "hash": "0fa60aaaf4656a7d",
+      "hash": "e28b1dd1850819ed",
       "changed": true,
-      "fetchedAt": "2026-11-19T03:08:10.509Z"
+      "fetchedAt": "2026-11-20T02:57:21.629Z"
     },
     {
       "siteId": "kimi",
       "url": "https://www.kimi.com/code",
       "status": "ok",
-      "kind": "text",
-      "title": "Kimi Code —— 搭载 Kimi K3.1 Pro 的 AI 编程 Agent，覆盖 CLI、VS Code 插件、桌面客户端等编程工具形态",
+      "kind": "spa",
+      "title": "Kimi AI 官网：K3.1 Pro 上线，编程与智能体任务全面升级",
       "snippets": [],
-      "hash": "5765cf4415e09c26",
+      "hash": "f21c70aeb7fcb92a",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:10.510Z"
+      "fetchedAt": "2026-11-20T02:57:21.630Z"
     },
     {
       "siteId": "kimi",
@@ -51,9 +51,9 @@ globalThis.PROMOS = {
       "snippets": [
         "文件相关接口（文件内容抽取/文件存储） 限时免费 ，即您只上传并抽取文档时，文件接口本身不产生费用。"
       ],
-      "hash": "463e325e31266ff0",
+      "hash": "2a563b96b61ac4d0",
       "changed": true,
-      "fetchedAt": "2026-11-19T03:08:10.511Z"
+      "fetchedAt": "2026-11-20T02:57:21.631Z"
     },
     {
       "siteId": "minimax",
@@ -64,7 +64,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "28da28db16ef2381",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:13.142Z"
+      "fetchedAt": "2026-11-20T02:57:25.276Z"
     },
     {
       "siteId": "minimax",
@@ -75,9 +75,9 @@ globalThis.PROMOS = {
       "snippets": [
         "用量额度 各档位用量的实际消耗会因模型、上下文长度和任务复杂度而不同，其中视频生成的消耗远高于文本，经常生成视频时额度会用得更快。"
       ],
-      "hash": "7fe87a21d044ce4b",
+      "hash": "6f48e22fabd4d10b",
       "changed": true,
-      "fetchedAt": "2026-11-19T03:08:13.144Z"
+      "fetchedAt": "2026-11-20T02:57:25.277Z"
     },
     {
       "siteId": "mimo",
@@ -88,7 +88,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:13.145Z"
+      "fetchedAt": "2026-11-20T02:57:25.279Z"
     },
     {
       "siteId": "trae",
@@ -99,7 +99,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:13.146Z",
+      "fetchedAt": "2026-11-20T02:57:25.280Z",
       "error": "HTTP 403"
     },
     {
@@ -114,9 +114,9 @@ globalThis.PROMOS = {
         "Qoder CN 采用 Credits 进行计量。",
         "每种付费方案均包含特定数量的 Credits。"
       ],
-      "hash": "7db66c2efa76cfc2",
-      "changed": false,
-      "fetchedAt": "2026-11-19T03:08:16.446Z"
+      "hash": "4bf2396bd8545022",
+      "changed": true,
+      "fetchedAt": "2026-11-20T02:57:30.273Z"
     },
     {
       "siteId": "qoder",
@@ -127,7 +127,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "be502db8ba5c22da",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:16.447Z"
+      "fetchedAt": "2026-11-20T02:57:30.275Z"
     },
     {
       "siteId": "raccoon",
@@ -143,7 +143,7 @@ globalThis.PROMOS = {
       ],
       "hash": "2d09bce45aa7b459",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:16.449Z"
+      "fetchedAt": "2026-11-20T02:57:30.276Z"
     },
     {
       "siteId": "raccoon",
@@ -158,7 +158,7 @@ globalThis.PROMOS = {
       ],
       "hash": "87a005d0ca1804f0",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:16.450Z"
+      "fetchedAt": "2026-11-20T02:57:30.277Z"
     },
     {
       "siteId": "loomy",
@@ -169,7 +169,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:19.496Z",
+      "fetchedAt": "2026-11-20T02:57:32.875Z",
       "error": "ENOTFOUND"
     },
     {
@@ -181,9 +181,9 @@ globalThis.PROMOS = {
       "snippets": [
         "Free models 03 Add more models Bring your own subscription, or use OpenCode Go's curated models from $10/month."
       ],
-      "hash": "8913938926edb9c6",
+      "hash": "6e74e30be665a90d",
       "changed": true,
-      "fetchedAt": "2026-11-19T03:08:19.498Z"
+      "fetchedAt": "2026-11-20T02:57:32.876Z"
     },
     {
       "siteId": "opencode",
@@ -198,8 +198,8 @@ globalThis.PROMOS = {
         "Iceman Free is a stealth model that’s free on OpenCode for a limited time."
       ],
       "hash": "15e6145a8a3e1de9",
-      "changed": true,
-      "fetchedAt": "2026-11-19T03:08:19.499Z"
+      "changed": false,
+      "fetchedAt": "2026-11-20T02:57:32.878Z"
     },
     {
       "siteId": "commandcode",
@@ -214,8 +214,8 @@ globalThis.PROMOS = {
         "GOAT $10 /mo with up to $100 credits ~50 models (best low cost coding plan) Meet the coding agent built for open models ."
       ],
       "hash": "211c8c49b44dd0a8",
-      "changed": true,
-      "fetchedAt": "2026-11-19T03:08:19.500Z"
+      "changed": false,
+      "fetchedAt": "2026-11-20T02:57:32.878Z"
     },
     {
       "siteId": "devin",
@@ -224,9 +224,9 @@ globalThis.PROMOS = {
       "kind": "text",
       "title": "Devin: the autonomous software engineer",
       "snippets": [],
-      "hash": "98ab2c72b321e045",
-      "changed": false,
-      "fetchedAt": "2026-11-19T03:08:21.792Z"
+      "hash": "ba57911d92d3b19f",
+      "changed": true,
+      "fetchedAt": "2026-11-20T02:57:35.360Z"
     },
     {
       "siteId": "devin",
@@ -237,7 +237,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "ee639de67a063980",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:21.793Z"
+      "fetchedAt": "2026-11-20T02:57:35.361Z"
     },
     {
       "siteId": "copilot",
@@ -253,7 +253,7 @@ globalThis.PROMOS = {
       ],
       "hash": "aeaa8b759272deb1",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:21.794Z"
+      "fetchedAt": "2026-11-20T02:57:35.362Z"
     },
     {
       "siteId": "copilot",
@@ -269,7 +269,7 @@ globalThis.PROMOS = {
       ],
       "hash": "7d9384c21d6e9eb7",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:21.795Z"
+      "fetchedAt": "2026-11-20T02:57:35.363Z"
     },
     {
       "siteId": "sensenova",
@@ -283,7 +283,7 @@ globalThis.PROMOS = {
       ],
       "hash": "8501b7a053982b6b",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:22.420Z"
+      "fetchedAt": "2026-11-20T02:57:36.147Z"
     },
     {
       "siteId": "gemini",
@@ -298,8 +298,8 @@ globalThis.PROMOS = {
         "$13.50 starting January 1, 2027. --- * Context caching price * Free of charge * $0.135 through December 31, 2026."
       ],
       "hash": "315d4b7827c8610a",
-      "changed": true,
-      "fetchedAt": "2026-11-19T03:08:22.421Z"
+      "changed": false,
+      "fetchedAt": "2026-11-20T02:57:36.149Z"
     },
     {
       "siteId": "workbuddy",
@@ -310,7 +310,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "8ca59adff7a7150c",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:22.422Z"
+      "fetchedAt": "2026-11-20T02:57:36.150Z"
     },
     {
       "siteId": "opendesign",
@@ -321,7 +321,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-19T03:08:22.423Z"
+      "fetchedAt": "2026-11-20T02:57:36.150Z"
     }
   ]
 };
