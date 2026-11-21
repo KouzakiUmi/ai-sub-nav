@@ -1,8 +1,8 @@
 // 自动生成，请勿手改：node scripts/update-promos.mjs / GitHub Actions 每日更新
-// 生成时间 2026-11-20T02:57:38.294Z · run actions-44664363712
+// 生成时间 2026-11-21T03:04:50.535Z · run actions-44859215337
 globalThis.PROMOS = {
-  "generatedAt": "2026-11-20T02:57:38.294Z",
-  "run": "actions-44664363712",
+  "generatedAt": "2026-11-21T03:04:50.535Z",
+  "run": "actions-44859215337",
   "items": [
     {
       "siteId": "glm",
@@ -13,7 +13,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "5e48a507d22998aa",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:21.574Z"
+      "fetchedAt": "2026-11-21T03:04:36.982Z"
     },
     {
       "siteId": "glm",
@@ -27,9 +27,9 @@ globalThis.PROMOS = {
         "当套餐额度耗尽后，需要等待下一个 5 小时周期恢复额度，系统不会继续消耗您的其他资源包/账户余额。",
         "周积分 ：自套餐下单时起，以 7 天为一个周期刷新。"
       ],
-      "hash": "e28b1dd1850819ed",
+      "hash": "d603ed939725988d",
       "changed": true,
-      "fetchedAt": "2026-11-20T02:57:21.629Z"
+      "fetchedAt": "2026-11-21T03:04:37.025Z"
     },
     {
       "siteId": "kimi",
@@ -40,7 +40,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "f21c70aeb7fcb92a",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:21.630Z"
+      "fetchedAt": "2026-11-21T03:04:37.026Z"
     },
     {
       "siteId": "kimi",
@@ -51,9 +51,9 @@ globalThis.PROMOS = {
       "snippets": [
         "文件相关接口（文件内容抽取/文件存储） 限时免费 ，即您只上传并抽取文档时，文件接口本身不产生费用。"
       ],
-      "hash": "2a563b96b61ac4d0",
+      "hash": "a9787021233a2d39",
       "changed": true,
-      "fetchedAt": "2026-11-20T02:57:21.631Z"
+      "fetchedAt": "2026-11-21T03:04:37.027Z"
     },
     {
       "siteId": "minimax",
@@ -62,9 +62,9 @@ globalThis.PROMOS = {
       "kind": "text",
       "title": "MiniMax",
       "snippets": [],
-      "hash": "28da28db16ef2381",
-      "changed": false,
-      "fetchedAt": "2026-11-20T02:57:25.276Z"
+      "hash": "d833a2be831297d7",
+      "changed": true,
+      "fetchedAt": "2026-11-21T03:04:39.438Z"
     },
     {
       "siteId": "minimax",
@@ -75,9 +75,9 @@ globalThis.PROMOS = {
       "snippets": [
         "用量额度 各档位用量的实际消耗会因模型、上下文长度和任务复杂度而不同，其中视频生成的消耗远高于文本，经常生成视频时额度会用得更快。"
       ],
-      "hash": "6f48e22fabd4d10b",
+      "hash": "351ae5af882d82b5",
       "changed": true,
-      "fetchedAt": "2026-11-20T02:57:25.277Z"
+      "fetchedAt": "2026-11-21T03:04:39.439Z"
     },
     {
       "siteId": "mimo",
@@ -88,7 +88,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:25.279Z"
+      "fetchedAt": "2026-11-21T03:04:39.440Z"
     },
     {
       "siteId": "trae",
@@ -99,7 +99,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:25.280Z",
+      "fetchedAt": "2026-11-21T03:04:39.441Z",
       "error": "HTTP 403"
     },
     {
@@ -115,8 +115,8 @@ globalThis.PROMOS = {
         "每种付费方案均包含特定数量的 Credits。"
       ],
       "hash": "4bf2396bd8545022",
-      "changed": true,
-      "fetchedAt": "2026-11-20T02:57:30.273Z"
+      "changed": false,
+      "fetchedAt": "2026-11-21T03:04:42.121Z"
     },
     {
       "siteId": "qoder",
@@ -127,7 +127,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "be502db8ba5c22da",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:30.275Z"
+      "fetchedAt": "2026-11-21T03:04:42.122Z"
     },
     {
       "siteId": "raccoon",
@@ -141,9 +141,9 @@ globalThis.PROMOS = {
         "免费版、个人升级版、企业标准版怎么选，积分不够用了怎么办？",
         "一个人偶尔用，从免费版开始就够；"
       ],
-      "hash": "2d09bce45aa7b459",
-      "changed": false,
-      "fetchedAt": "2026-11-20T02:57:30.276Z"
+      "hash": "bb024189f7c023c6",
+      "changed": true,
+      "fetchedAt": "2026-11-21T03:04:42.123Z"
     },
     {
       "siteId": "raccoon",
@@ -156,9 +156,9 @@ globalThis.PROMOS = {
         "先 获取升级版 即可购买加油包 积分怎么用？",
         "一次充值、按需消耗、不再为“次数”算账 1 一次对话 ≈ 1~5 积分 常规问答消耗低，长上下文与复杂任务按比例提升 2 不同任务复杂不同 PPT 生成、深度搜索、长文档解析按算力计费 3 余额实时可见 在账户区域和对话顶部查看余额与消耗。"
       ],
-      "hash": "87a005d0ca1804f0",
-      "changed": false,
-      "fetchedAt": "2026-11-20T02:57:30.277Z"
+      "hash": "811abd1945d7075a",
+      "changed": true,
+      "fetchedAt": "2026-11-21T03:04:42.124Z"
     },
     {
       "siteId": "loomy",
@@ -169,7 +169,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:32.875Z",
+      "fetchedAt": "2026-11-21T03:04:45.374Z",
       "error": "ENOTFOUND"
     },
     {
@@ -181,9 +181,9 @@ globalThis.PROMOS = {
       "snippets": [
         "Free models 03 Add more models Bring your own subscription, or use OpenCode Go's curated models from $10/month."
       ],
-      "hash": "6e74e30be665a90d",
+      "hash": "8913938926edb9c6",
       "changed": true,
-      "fetchedAt": "2026-11-20T02:57:32.876Z"
+      "fetchedAt": "2026-11-21T03:04:45.375Z"
     },
     {
       "siteId": "opencode",
@@ -199,7 +199,7 @@ globalThis.PROMOS = {
       ],
       "hash": "15e6145a8a3e1de9",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:32.878Z"
+      "fetchedAt": "2026-11-21T03:04:45.376Z"
     },
     {
       "siteId": "commandcode",
@@ -213,9 +213,9 @@ globalThis.PROMOS = {
         "Command Code - The best coding agent for open models Docs Features About Pricing Contact GOAT Sign Up Command Code raised $5M seed.",
         "GOAT $10 /mo with up to $100 credits ~50 models (best low cost coding plan) Meet the coding agent built for open models ."
       ],
-      "hash": "211c8c49b44dd0a8",
-      "changed": false,
-      "fetchedAt": "2026-11-20T02:57:32.878Z"
+      "hash": "5d7d3b34b564a923",
+      "changed": true,
+      "fetchedAt": "2026-11-21T03:04:45.377Z"
     },
     {
       "siteId": "devin",
@@ -225,8 +225,8 @@ globalThis.PROMOS = {
       "title": "Devin: the autonomous software engineer",
       "snippets": [],
       "hash": "ba57911d92d3b19f",
-      "changed": true,
-      "fetchedAt": "2026-11-20T02:57:35.360Z"
+      "changed": false,
+      "fetchedAt": "2026-11-21T03:04:47.886Z"
     },
     {
       "siteId": "devin",
@@ -237,7 +237,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "ee639de67a063980",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:35.361Z"
+      "fetchedAt": "2026-11-21T03:04:47.887Z"
     },
     {
       "siteId": "copilot",
@@ -253,7 +253,7 @@ globalThis.PROMOS = {
       ],
       "hash": "aeaa8b759272deb1",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:35.362Z"
+      "fetchedAt": "2026-11-21T03:04:47.888Z"
     },
     {
       "siteId": "copilot",
@@ -267,9 +267,9 @@ globalThis.PROMOS = {
         "Every plan includes a monthly allowance: 1 AI credit = $0.01 USD.",
         "What happens when I hit my usage limit? When you've used your monthly allowance, you have a few options: Wait for your next cycle."
       ],
-      "hash": "7d9384c21d6e9eb7",
-      "changed": false,
-      "fetchedAt": "2026-11-20T02:57:35.363Z"
+      "hash": "02c4f5b071512cde",
+      "changed": true,
+      "fetchedAt": "2026-11-21T03:04:47.888Z"
     },
     {
       "siteId": "sensenova",
@@ -283,7 +283,7 @@ globalThis.PROMOS = {
       ],
       "hash": "8501b7a053982b6b",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:36.147Z"
+      "fetchedAt": "2026-11-21T03:04:48.647Z"
     },
     {
       "siteId": "gemini",
@@ -299,7 +299,7 @@ globalThis.PROMOS = {
       ],
       "hash": "315d4b7827c8610a",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:36.149Z"
+      "fetchedAt": "2026-11-21T03:04:48.648Z"
     },
     {
       "siteId": "workbuddy",
@@ -310,7 +310,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "8ca59adff7a7150c",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:36.150Z"
+      "fetchedAt": "2026-11-21T03:04:48.649Z"
     },
     {
       "siteId": "opendesign",
@@ -321,7 +321,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-20T02:57:36.150Z"
+      "fetchedAt": "2026-11-21T03:04:48.649Z"
     }
   ]
 };
