@@ -1,8 +1,8 @@
 // 自动生成，请勿手改：node scripts/update-promos.mjs / GitHub Actions 每日更新
-// 生成时间 2026-11-23T02:28:32.622Z · run actions-45100379741
+// 生成时间 2026-11-24T05:52:13.865Z · run actions-45336269880
 globalThis.PROMOS = {
-  "generatedAt": "2026-11-23T02:28:32.622Z",
-  "run": "actions-45100379741",
+  "generatedAt": "2026-11-24T05:52:13.865Z",
+  "run": "actions-45336269880",
   "items": [
     {
       "siteId": "glm",
@@ -13,7 +13,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "5e48a507d22998aa",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:20.426Z"
+      "fetchedAt": "2026-11-24T05:52:00.491Z"
     },
     {
       "siteId": "glm",
@@ -27,9 +27,9 @@ globalThis.PROMOS = {
         "当套餐额度耗尽后，需要等待下一个 5 小时周期恢复额度，系统不会继续消耗您的其他资源包/账户余额。",
         "周积分 ：自套餐下单时起，以 7 天为一个周期刷新。"
       ],
-      "hash": "df45bba1835f2bb7",
+      "hash": "160e9f3bbf5ac4f7",
       "changed": true,
-      "fetchedAt": "2026-11-23T02:28:20.475Z"
+      "fetchedAt": "2026-11-24T05:52:00.547Z"
     },
     {
       "siteId": "kimi",
@@ -40,7 +40,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "f21c70aeb7fcb92a",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:20.476Z"
+      "fetchedAt": "2026-11-24T05:52:00.549Z"
     },
     {
       "siteId": "kimi",
@@ -51,9 +51,9 @@ globalThis.PROMOS = {
       "snippets": [
         "文件相关接口（文件内容抽取/文件存储） 限时免费 ，即您只上传并抽取文档时，文件接口本身不产生费用。"
       ],
-      "hash": "9ba2e35f0c48a333",
+      "hash": "cc04e60c4dfd3c50",
       "changed": true,
-      "fetchedAt": "2026-11-23T02:28:20.477Z"
+      "fetchedAt": "2026-11-24T05:52:00.550Z"
     },
     {
       "siteId": "minimax",
@@ -62,9 +62,9 @@ globalThis.PROMOS = {
       "kind": "text",
       "title": "MiniMax",
       "snippets": [],
-      "hash": "d833a2be831297d7",
-      "changed": false,
-      "fetchedAt": "2026-11-23T02:28:22.299Z"
+      "hash": "eb4104780e469d11",
+      "changed": true,
+      "fetchedAt": "2026-11-24T05:52:03.251Z"
     },
     {
       "siteId": "minimax",
@@ -75,9 +75,9 @@ globalThis.PROMOS = {
       "snippets": [
         "用量额度 各档位用量的实际消耗会因模型、上下文长度和任务复杂度而不同，其中视频生成的消耗远高于文本，经常生成视频时额度会用得更快。"
       ],
-      "hash": "3bb4941ad35db622",
+      "hash": "6cb09b208a85726e",
       "changed": true,
-      "fetchedAt": "2026-11-23T02:28:22.300Z"
+      "fetchedAt": "2026-11-24T05:52:03.252Z"
     },
     {
       "siteId": "mimo",
@@ -88,7 +88,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:22.301Z"
+      "fetchedAt": "2026-11-24T05:52:03.254Z"
     },
     {
       "siteId": "trae",
@@ -99,7 +99,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:22.302Z",
+      "fetchedAt": "2026-11-24T05:52:03.255Z",
       "error": "HTTP 403"
     },
     {
@@ -116,7 +116,7 @@ globalThis.PROMOS = {
       ],
       "hash": "4bf2396bd8545022",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:24.979Z"
+      "fetchedAt": "2026-11-24T05:52:05.442Z"
     },
     {
       "siteId": "qoder",
@@ -127,7 +127,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "be502db8ba5c22da",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:24.981Z"
+      "fetchedAt": "2026-11-24T05:52:05.443Z"
     },
     {
       "siteId": "raccoon",
@@ -143,7 +143,7 @@ globalThis.PROMOS = {
       ],
       "hash": "bb024189f7c023c6",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:24.982Z"
+      "fetchedAt": "2026-11-24T05:52:05.445Z"
     },
     {
       "siteId": "raccoon",
@@ -158,7 +158,7 @@ globalThis.PROMOS = {
       ],
       "hash": "811abd1945d7075a",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:24.983Z"
+      "fetchedAt": "2026-11-24T05:52:05.446Z"
     },
     {
       "siteId": "loomy",
@@ -169,7 +169,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:27.379Z",
+      "fetchedAt": "2026-11-24T05:52:08.524Z",
       "error": "ENOTFOUND"
     },
     {
@@ -181,9 +181,9 @@ globalThis.PROMOS = {
       "snippets": [
         "Free models 03 Add more models Bring your own subscription, or use OpenCode Go's curated models from $10/month."
       ],
-      "hash": "85714f867796375b",
+      "hash": "68fd0911f0411d59",
       "changed": true,
-      "fetchedAt": "2026-11-23T02:28:27.380Z"
+      "fetchedAt": "2026-11-24T05:52:08.526Z"
     },
     {
       "siteId": "opencode",
@@ -197,9 +197,9 @@ globalThis.PROMOS = {
         "Tidepool Alpha Free is a stealth model that’s free on OpenCode for a limited time.",
         "Iceman Free is a stealth model that’s free on OpenCode for a limited time."
       ],
-      "hash": "8f15db7ec6be2179",
+      "hash": "a97d76b18872bee1",
       "changed": true,
-      "fetchedAt": "2026-11-23T02:28:27.381Z"
+      "fetchedAt": "2026-11-24T05:52:08.527Z"
     },
     {
       "siteId": "commandcode",
@@ -214,8 +214,8 @@ globalThis.PROMOS = {
         "GOAT $10 /mo with up to $100 credits ~50 models (best low cost coding plan) Meet the coding agent built for open models ."
       ],
       "hash": "693a5d300adbe303",
-      "changed": true,
-      "fetchedAt": "2026-11-23T02:28:27.382Z"
+      "changed": false,
+      "fetchedAt": "2026-11-24T05:52:08.528Z"
     },
     {
       "siteId": "devin",
@@ -226,7 +226,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "ba57911d92d3b19f",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:29.459Z"
+      "fetchedAt": "2026-11-24T05:52:10.654Z"
     },
     {
       "siteId": "devin",
@@ -235,9 +235,9 @@ globalThis.PROMOS = {
       "kind": "text",
       "title": "Plans and Pricing | Devin",
       "snippets": [],
-      "hash": "422c3a6f068271b0",
-      "changed": false,
-      "fetchedAt": "2026-11-23T02:28:29.461Z"
+      "hash": "ee639de67a063980",
+      "changed": true,
+      "fetchedAt": "2026-11-24T05:52:10.656Z"
     },
     {
       "siteId": "copilot",
@@ -251,9 +251,9 @@ globalThis.PROMOS = {
         "Your included allowance resets every month.",
         "Lightweight models use fewer credits per interaction and stretch your remaining allowance further."
       ],
-      "hash": "aeaa8b759272deb1",
-      "changed": false,
-      "fetchedAt": "2026-11-23T02:28:29.462Z"
+      "hash": "dab1b4907f341fdd",
+      "changed": true,
+      "fetchedAt": "2026-11-24T05:52:10.657Z"
     },
     {
       "siteId": "copilot",
@@ -267,9 +267,9 @@ globalThis.PROMOS = {
         "Every plan includes a monthly allowance: 1 AI credit = $0.01 USD.",
         "What happens when I hit my usage limit? When you've used your monthly allowance, you have a few options: Wait for your next cycle."
       ],
-      "hash": "02c4f5b071512cde",
-      "changed": false,
-      "fetchedAt": "2026-11-23T02:28:29.462Z"
+      "hash": "871e23a978dac541",
+      "changed": true,
+      "fetchedAt": "2026-11-24T05:52:10.658Z"
     },
     {
       "siteId": "sensenova",
@@ -283,7 +283,7 @@ globalThis.PROMOS = {
       ],
       "hash": "8501b7a053982b6b",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:30.470Z"
+      "fetchedAt": "2026-11-24T05:52:11.626Z"
     },
     {
       "siteId": "gemini",
@@ -299,7 +299,7 @@ globalThis.PROMOS = {
       ],
       "hash": "315d4b7827c8610a",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:30.471Z"
+      "fetchedAt": "2026-11-24T05:52:11.627Z"
     },
     {
       "siteId": "workbuddy",
@@ -310,18 +310,19 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "8ca59adff7a7150c",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:30.472Z"
+      "fetchedAt": "2026-11-24T05:52:11.628Z"
     },
     {
       "siteId": "opendesign",
       "url": "https://opendesign.ai/",
-      "status": "ok",
-      "kind": "spa",
+      "status": "error",
+      "kind": "text",
       "title": "",
       "snippets": [],
-      "hash": "e3b0c44298fc1c14",
+      "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-23T02:28:30.473Z"
+      "fetchedAt": "2026-11-24T05:52:11.629Z",
+      "error": "HTTP 525"
     }
   ]
 };
