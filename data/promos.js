@@ -1,8 +1,8 @@
 // 自动生成，请勿手改：node scripts/update-promos.mjs / GitHub Actions 每日更新
-// 生成时间 2026-11-24T05:52:13.865Z · run actions-45336269880
+// 生成时间 2026-11-25T04:51:12.360Z · run actions-45549531374
 globalThis.PROMOS = {
-  "generatedAt": "2026-11-24T05:52:13.865Z",
-  "run": "actions-45336269880",
+  "generatedAt": "2026-11-25T04:51:12.360Z",
+  "run": "actions-45549531374",
   "items": [
     {
       "siteId": "glm",
@@ -13,7 +13,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "5e48a507d22998aa",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:00.491Z"
+      "fetchedAt": "2026-11-25T04:50:58.399Z"
     },
     {
       "siteId": "glm",
@@ -22,14 +22,14 @@ globalThis.PROMOS = {
       "kind": "text",
       "title": "套餐概览 - 智谱AI开放文档",
       "snippets": [
+        "限时活动 ：11 月 24 日至 12 月 24 日，调用 GLM-5.3-Flash 所产生的消耗全部按原抵扣系数的 50% 结算，即可用额度为原来的 2 倍。",
         "在除规定工具外调用 API，不可享用 Coding 套餐的额度。",
         "订阅套餐后，在上述工具中调用 GLM 模型，按接入指南配置即可使用套餐额度。",
-        "当套餐额度耗尽后，需要等待下一个 5 小时周期恢复额度，系统不会继续消耗您的其他资源包/账户余额。",
-        "周积分 ：自套餐下单时起，以 7 天为一个周期刷新。"
+        "当套餐额度耗尽后，需要等待下一个 5 小时周期恢复额度，系统不会继续消耗您的其他资源包/账户余额。"
       ],
-      "hash": "160e9f3bbf5ac4f7",
+      "hash": "7100401a8b265b86",
       "changed": true,
-      "fetchedAt": "2026-11-24T05:52:00.547Z"
+      "fetchedAt": "2026-11-25T04:50:58.440Z"
     },
     {
       "siteId": "kimi",
@@ -40,7 +40,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "f21c70aeb7fcb92a",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:00.549Z"
+      "fetchedAt": "2026-11-25T04:50:58.441Z"
     },
     {
       "siteId": "kimi",
@@ -51,9 +51,9 @@ globalThis.PROMOS = {
       "snippets": [
         "文件相关接口（文件内容抽取/文件存储） 限时免费 ，即您只上传并抽取文档时，文件接口本身不产生费用。"
       ],
-      "hash": "cc04e60c4dfd3c50",
+      "hash": "9e8717335ea6dbbd",
       "changed": true,
-      "fetchedAt": "2026-11-24T05:52:00.550Z"
+      "fetchedAt": "2026-11-25T04:50:58.441Z"
     },
     {
       "siteId": "minimax",
@@ -62,9 +62,9 @@ globalThis.PROMOS = {
       "kind": "text",
       "title": "MiniMax",
       "snippets": [],
-      "hash": "eb4104780e469d11",
+      "hash": "0e75840bc094090e",
       "changed": true,
-      "fetchedAt": "2026-11-24T05:52:03.251Z"
+      "fetchedAt": "2026-11-25T04:51:01.227Z"
     },
     {
       "siteId": "minimax",
@@ -75,9 +75,9 @@ globalThis.PROMOS = {
       "snippets": [
         "用量额度 各档位用量的实际消耗会因模型、上下文长度和任务复杂度而不同，其中视频生成的消耗远高于文本，经常生成视频时额度会用得更快。"
       ],
-      "hash": "6cb09b208a85726e",
+      "hash": "b5346095adb6c46a",
       "changed": true,
-      "fetchedAt": "2026-11-24T05:52:03.252Z"
+      "fetchedAt": "2026-11-25T04:51:01.228Z"
     },
     {
       "siteId": "mimo",
@@ -88,7 +88,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:03.254Z"
+      "fetchedAt": "2026-11-25T04:51:01.229Z"
     },
     {
       "siteId": "trae",
@@ -99,7 +99,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:03.255Z",
+      "fetchedAt": "2026-11-25T04:51:01.230Z",
       "error": "HTTP 403"
     },
     {
@@ -116,7 +116,7 @@ globalThis.PROMOS = {
       ],
       "hash": "4bf2396bd8545022",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:05.442Z"
+      "fetchedAt": "2026-11-25T04:51:06.132Z"
     },
     {
       "siteId": "qoder",
@@ -127,7 +127,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "be502db8ba5c22da",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:05.443Z"
+      "fetchedAt": "2026-11-25T04:51:06.133Z"
     },
     {
       "siteId": "raccoon",
@@ -143,7 +143,7 @@ globalThis.PROMOS = {
       ],
       "hash": "bb024189f7c023c6",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:05.445Z"
+      "fetchedAt": "2026-11-25T04:51:06.134Z"
     },
     {
       "siteId": "raccoon",
@@ -158,7 +158,7 @@ globalThis.PROMOS = {
       ],
       "hash": "811abd1945d7075a",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:05.446Z"
+      "fetchedAt": "2026-11-25T04:51:06.135Z"
     },
     {
       "siteId": "loomy",
@@ -169,7 +169,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:08.524Z",
+      "fetchedAt": "2026-11-25T04:51:08.421Z",
       "error": "ENOTFOUND"
     },
     {
@@ -181,9 +181,9 @@ globalThis.PROMOS = {
       "snippets": [
         "Free models 03 Add more models Bring your own subscription, or use OpenCode Go's curated models from $10/month."
       ],
-      "hash": "68fd0911f0411d59",
+      "hash": "d7658f03dba539c2",
       "changed": true,
-      "fetchedAt": "2026-11-24T05:52:08.526Z"
+      "fetchedAt": "2026-11-25T04:51:08.423Z"
     },
     {
       "siteId": "opencode",
@@ -197,9 +197,9 @@ globalThis.PROMOS = {
         "Tidepool Alpha Free is a stealth model that’s free on OpenCode for a limited time.",
         "Iceman Free is a stealth model that’s free on OpenCode for a limited time."
       ],
-      "hash": "a97d76b18872bee1",
+      "hash": "8d73e359514611df",
       "changed": true,
-      "fetchedAt": "2026-11-24T05:52:08.527Z"
+      "fetchedAt": "2026-11-25T04:51:08.423Z"
     },
     {
       "siteId": "commandcode",
@@ -215,7 +215,7 @@ globalThis.PROMOS = {
       ],
       "hash": "693a5d300adbe303",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:08.528Z"
+      "fetchedAt": "2026-11-25T04:51:08.424Z"
     },
     {
       "siteId": "devin",
@@ -226,7 +226,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "ba57911d92d3b19f",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:10.654Z"
+      "fetchedAt": "2026-11-25T04:51:10.251Z"
     },
     {
       "siteId": "devin",
@@ -236,8 +236,8 @@ globalThis.PROMOS = {
       "title": "Plans and Pricing | Devin",
       "snippets": [],
       "hash": "ee639de67a063980",
-      "changed": true,
-      "fetchedAt": "2026-11-24T05:52:10.656Z"
+      "changed": false,
+      "fetchedAt": "2026-11-25T04:51:10.252Z"
     },
     {
       "siteId": "copilot",
@@ -251,9 +251,9 @@ globalThis.PROMOS = {
         "Your included allowance resets every month.",
         "Lightweight models use fewer credits per interaction and stretch your remaining allowance further."
       ],
-      "hash": "dab1b4907f341fdd",
+      "hash": "e22f4296e6c897b9",
       "changed": true,
-      "fetchedAt": "2026-11-24T05:52:10.657Z"
+      "fetchedAt": "2026-11-25T04:51:10.253Z"
     },
     {
       "siteId": "copilot",
@@ -268,8 +268,8 @@ globalThis.PROMOS = {
         "What happens when I hit my usage limit? When you've used your monthly allowance, you have a few options: Wait for your next cycle."
       ],
       "hash": "871e23a978dac541",
-      "changed": true,
-      "fetchedAt": "2026-11-24T05:52:10.658Z"
+      "changed": false,
+      "fetchedAt": "2026-11-25T04:51:10.254Z"
     },
     {
       "siteId": "sensenova",
@@ -281,9 +281,9 @@ globalThis.PROMOS = {
         "免费开始 在 Hermes Agent 与 OpenClaw 中使用 → 01 原生多模智能体 贯通理解与生成的多模态底座，既能读懂文档、图片、表格，也能生成图文并茂的高质量交付物。",
         "03 Token 消耗立省 60% i 相较于纯文本智能体模型，基于长链路复杂任务平均估算所得，实际执行任务不同可能存在波动。"
       ],
-      "hash": "8501b7a053982b6b",
-      "changed": false,
-      "fetchedAt": "2026-11-24T05:52:11.626Z"
+      "hash": "be0167f50afb2d73",
+      "changed": true,
+      "fetchedAt": "2026-11-25T04:51:11.084Z"
     },
     {
       "siteId": "gemini",
@@ -299,7 +299,7 @@ globalThis.PROMOS = {
       ],
       "hash": "315d4b7827c8610a",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:11.627Z"
+      "fetchedAt": "2026-11-25T04:51:11.086Z"
     },
     {
       "siteId": "workbuddy",
@@ -310,19 +310,18 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "8ca59adff7a7150c",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:11.628Z"
+      "fetchedAt": "2026-11-25T04:51:11.086Z"
     },
     {
       "siteId": "opendesign",
       "url": "https://opendesign.ai/",
-      "status": "error",
-      "kind": "text",
+      "status": "ok",
+      "kind": "spa",
       "title": "",
       "snippets": [],
-      "hash": "",
+      "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-24T05:52:11.629Z",
-      "error": "HTTP 525"
+      "fetchedAt": "2026-11-25T04:51:11.087Z"
     }
   ]
 };
