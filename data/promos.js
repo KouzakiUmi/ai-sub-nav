@@ -1,8 +1,8 @@
 // 自动生成，请勿手改：node scripts/update-promos.mjs / GitHub Actions 每日更新
-// 生成时间 2026-11-25T04:51:12.360Z · run actions-45549531374
+// 生成时间 2026-11-26T04:04:29.907Z · run actions-45752827037
 globalThis.PROMOS = {
-  "generatedAt": "2026-11-25T04:51:12.360Z",
-  "run": "actions-45549531374",
+  "generatedAt": "2026-11-26T04:04:29.907Z",
+  "run": "actions-45752827037",
   "items": [
     {
       "siteId": "glm",
@@ -13,7 +13,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "5e48a507d22998aa",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:50:58.399Z"
+      "fetchedAt": "2026-11-26T04:04:17.827Z"
     },
     {
       "siteId": "glm",
@@ -27,9 +27,9 @@ globalThis.PROMOS = {
         "订阅套餐后，在上述工具中调用 GLM 模型，按接入指南配置即可使用套餐额度。",
         "当套餐额度耗尽后，需要等待下一个 5 小时周期恢复额度，系统不会继续消耗您的其他资源包/账户余额。"
       ],
-      "hash": "7100401a8b265b86",
+      "hash": "b1e3cbba10d39804",
       "changed": true,
-      "fetchedAt": "2026-11-25T04:50:58.440Z"
+      "fetchedAt": "2026-11-26T04:04:17.869Z"
     },
     {
       "siteId": "kimi",
@@ -40,7 +40,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "f21c70aeb7fcb92a",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:50:58.441Z"
+      "fetchedAt": "2026-11-26T04:04:17.870Z"
     },
     {
       "siteId": "kimi",
@@ -51,9 +51,9 @@ globalThis.PROMOS = {
       "snippets": [
         "文件相关接口（文件内容抽取/文件存储） 限时免费 ，即您只上传并抽取文档时，文件接口本身不产生费用。"
       ],
-      "hash": "9e8717335ea6dbbd",
+      "hash": "f49bce430abe7974",
       "changed": true,
-      "fetchedAt": "2026-11-25T04:50:58.441Z"
+      "fetchedAt": "2026-11-26T04:04:17.871Z"
     },
     {
       "siteId": "minimax",
@@ -63,8 +63,8 @@ globalThis.PROMOS = {
       "title": "MiniMax",
       "snippets": [],
       "hash": "0e75840bc094090e",
-      "changed": true,
-      "fetchedAt": "2026-11-25T04:51:01.227Z"
+      "changed": false,
+      "fetchedAt": "2026-11-26T04:04:20.605Z"
     },
     {
       "siteId": "minimax",
@@ -75,9 +75,9 @@ globalThis.PROMOS = {
       "snippets": [
         "用量额度 各档位用量的实际消耗会因模型、上下文长度和任务复杂度而不同，其中视频生成的消耗远高于文本，经常生成视频时额度会用得更快。"
       ],
-      "hash": "b5346095adb6c46a",
+      "hash": "ce10fda2cd5edbbd",
       "changed": true,
-      "fetchedAt": "2026-11-25T04:51:01.228Z"
+      "fetchedAt": "2026-11-26T04:04:20.607Z"
     },
     {
       "siteId": "mimo",
@@ -88,7 +88,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:01.229Z"
+      "fetchedAt": "2026-11-26T04:04:20.607Z"
     },
     {
       "siteId": "trae",
@@ -99,7 +99,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:01.230Z",
+      "fetchedAt": "2026-11-26T04:04:20.608Z",
       "error": "HTTP 403"
     },
     {
@@ -116,7 +116,7 @@ globalThis.PROMOS = {
       ],
       "hash": "4bf2396bd8545022",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:06.132Z"
+      "fetchedAt": "2026-11-26T04:04:22.468Z"
     },
     {
       "siteId": "qoder",
@@ -127,7 +127,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "be502db8ba5c22da",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:06.133Z"
+      "fetchedAt": "2026-11-26T04:04:22.470Z"
     },
     {
       "siteId": "raccoon",
@@ -143,7 +143,7 @@ globalThis.PROMOS = {
       ],
       "hash": "bb024189f7c023c6",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:06.134Z"
+      "fetchedAt": "2026-11-26T04:04:22.470Z"
     },
     {
       "siteId": "raccoon",
@@ -158,7 +158,7 @@ globalThis.PROMOS = {
       ],
       "hash": "811abd1945d7075a",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:06.135Z"
+      "fetchedAt": "2026-11-26T04:04:22.471Z"
     },
     {
       "siteId": "loomy",
@@ -169,7 +169,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:08.421Z",
+      "fetchedAt": "2026-11-26T04:04:25.080Z",
       "error": "ENOTFOUND"
     },
     {
@@ -181,9 +181,9 @@ globalThis.PROMOS = {
       "snippets": [
         "Free models 03 Add more models Bring your own subscription, or use OpenCode Go's curated models from $10/month."
       ],
-      "hash": "d7658f03dba539c2",
+      "hash": "5a1b85f4d7dbe549",
       "changed": true,
-      "fetchedAt": "2026-11-25T04:51:08.423Z"
+      "fetchedAt": "2026-11-26T04:04:25.081Z"
     },
     {
       "siteId": "opencode",
@@ -195,11 +195,11 @@ globalThis.PROMOS = {
         "Nemotron 3.5 Lightning Free (NVIDIA free endpoints): Trial use only — do not submit personal or confidential data.",
         "Nemotron 3.5 Super VL Free (NVIDIA free endpoints): Trial use only — do not submit personal or confidential data.",
         "Tidepool Alpha Free is a stealth model that’s free on OpenCode for a limited time.",
-        "Iceman Free is a stealth model that’s free on OpenCode for a limited time."
+        "Seaglass Alpha Free is a stealth model that’s free on OpenCode for a limited time."
       ],
-      "hash": "8d73e359514611df",
+      "hash": "c8b0af124dbf9bea",
       "changed": true,
-      "fetchedAt": "2026-11-25T04:51:08.423Z"
+      "fetchedAt": "2026-11-26T04:04:25.082Z"
     },
     {
       "siteId": "commandcode",
@@ -210,12 +210,12 @@ globalThis.PROMOS = {
       "snippets": [
         "Free 1M tool call repairs per 1T tokens.",
         "What does it cost? Free tier for solo developers.",
-        "Command Code - The best coding agent for open models Docs Features About Pricing Contact GOAT Sign Up Command Code raised $5M seed.",
+        "Command Code - The best coding agent for open models Docs Features Pricing Contact MOAT GOAT Sign Up Command Code raised $5M seed.",
         "GOAT $10 /mo with up to $100 credits ~50 models (best low cost coding plan) Meet the coding agent built for open models ."
       ],
-      "hash": "693a5d300adbe303",
-      "changed": false,
-      "fetchedAt": "2026-11-25T04:51:08.424Z"
+      "hash": "f9ffbe6e3e9402ee",
+      "changed": true,
+      "fetchedAt": "2026-11-26T04:04:25.083Z"
     },
     {
       "siteId": "devin",
@@ -226,7 +226,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "ba57911d92d3b19f",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:10.251Z"
+      "fetchedAt": "2026-11-26T04:04:26.995Z"
     },
     {
       "siteId": "devin",
@@ -237,7 +237,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "ee639de67a063980",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:10.252Z"
+      "fetchedAt": "2026-11-26T04:04:26.996Z"
     },
     {
       "siteId": "copilot",
@@ -252,8 +252,8 @@ globalThis.PROMOS = {
         "Lightweight models use fewer credits per interaction and stretch your remaining allowance further."
       ],
       "hash": "e22f4296e6c897b9",
-      "changed": true,
-      "fetchedAt": "2026-11-25T04:51:10.253Z"
+      "changed": false,
+      "fetchedAt": "2026-11-26T04:04:26.997Z"
     },
     {
       "siteId": "copilot",
@@ -269,7 +269,7 @@ globalThis.PROMOS = {
       ],
       "hash": "871e23a978dac541",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:10.254Z"
+      "fetchedAt": "2026-11-26T04:04:26.998Z"
     },
     {
       "siteId": "sensenova",
@@ -282,8 +282,8 @@ globalThis.PROMOS = {
         "03 Token 消耗立省 60% i 相较于纯文本智能体模型，基于长链路复杂任务平均估算所得，实际执行任务不同可能存在波动。"
       ],
       "hash": "be0167f50afb2d73",
-      "changed": true,
-      "fetchedAt": "2026-11-25T04:51:11.084Z"
+      "changed": false,
+      "fetchedAt": "2026-11-26T04:04:27.784Z"
     },
     {
       "siteId": "gemini",
@@ -299,7 +299,7 @@ globalThis.PROMOS = {
       ],
       "hash": "315d4b7827c8610a",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:11.086Z"
+      "fetchedAt": "2026-11-26T04:04:27.785Z"
     },
     {
       "siteId": "workbuddy",
@@ -310,7 +310,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "8ca59adff7a7150c",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:11.086Z"
+      "fetchedAt": "2026-11-26T04:04:27.786Z"
     },
     {
       "siteId": "opendesign",
@@ -321,7 +321,7 @@ globalThis.PROMOS = {
       "snippets": [],
       "hash": "e3b0c44298fc1c14",
       "changed": false,
-      "fetchedAt": "2026-11-25T04:51:11.087Z"
+      "fetchedAt": "2026-11-26T04:04:27.787Z"
     }
   ]
 };
